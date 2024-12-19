@@ -43,7 +43,6 @@ spam-email-detection/
 ├── vectorizer.pkl      # Pretrained TF-IDF vectorizer
 ├── requirements.txt    # Required Python libraries
 ├── README.md           # Project documentation
-└── data/               # (Optional) Directory for raw datasets
 ```
 
 ## Preprocessing Steps
